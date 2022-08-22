@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    font-family: 'Play', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'PT Sans Narrow', sans-serif;
+    background-color: rgb(206, 245, 243);
+    font-weight: 750;
+}
+
+.white {
+    color: white;
+}
+
+.align-center {
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.button {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(204, 27, 110), rgb(214, 36, 190));
+    padding: 8px 35px;
+    border-radius: 12px;
+    color: white;
+}
+
+.donate-area {
+    background-image: url(/resources/images/donate1.jpg);
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+}
