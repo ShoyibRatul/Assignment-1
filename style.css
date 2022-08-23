@@ -40,7 +40,7 @@ h3 {
 }
 
 .background1 {
-    background-image: url(/resources/images/donate1.jpg);
+    background-image: url(resources/images/donate1.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
     padding: 40px;
