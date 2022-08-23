@@ -134,6 +134,25 @@ input {
 }
 
 
+#subscribe {
+    background-color: cornflowerblue;
+    padding: 3px;
+    margin: 0px 750px;
+    border-radius: 20px;
+}
+
+#subscribe button {
+    margin-left: -10px;
+    background-color: coral;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+#subscribe input {
+    margin-right: 0;
+
+}
+
 
 footer {
     margin-bottom: 0;
